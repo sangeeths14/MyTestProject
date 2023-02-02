@@ -2,4 +2,5 @@ T1 -Line 1
 Line2 abc
 Line3 abc
 Line4 abc
+merge side1
 Line5 abc
